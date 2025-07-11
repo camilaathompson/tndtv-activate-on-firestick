@@ -4,11 +4,7 @@
 
 How to Activate TND TV on Firestick? 📺
 ============================================
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 In today’s fast-paced digital world, streaming content has become the go-to form of entertainment for millions. One of the platforms leading this charge is TND TV, known for offering an exciting mix of TV shows, live news, sports, documentaries, and exclusive series. If you own an Amazon Firestick and want to enjoy the TND TV experience on the big screen, learning how to tnd tv activate on firestick is the first step toward endless entertainment.
 
